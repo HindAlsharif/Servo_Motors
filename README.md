@@ -16,6 +16,14 @@ This project is a simple electronics circuit designed using Tinkercad to control
 # Viewing and Simulation
 You can view and simulate the complete project on the Tinkercad platform by using the link provided in the repository's "About" section. This will allow you to interact with the circuit, view the code, and understand its full functionality.
 
+# Walking Algorithm for Humanoid Robot
+- Robot stands straight.
+- Robot shifts weight to the left leg and lifts the right leg with the knee bent.
+- Robot moves the right leg forward, straightens the knee, and puts the leg down.
+- Robot shifts weight to the right leg and lifts the left leg with the knee bent.
+- Robot moves the left leg forward, straightens the knee, and puts the leg down.
+- Repeat for walking.
+
 # Author
 Hind Ibrahim Alsharif  
 IT Student at Taif University
