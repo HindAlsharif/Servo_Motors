@@ -17,5 +17,5 @@ This project is a simple electronics circuit designed using Tinkercad to control
 You can view and simulate the complete project on the Tinkercad platform by using the link provided in the repository's "About" section. This will allow you to interact with the circuit, view the code, and understand its full functionality.
 
 # Author
-Hind Ibrahim Alsharif
+Hind Ibrahim Alsharif  
 IT Student at Taif University
